@@ -46,6 +46,7 @@ Colección de herramientas de seguridad desarrolladas en Latino America.
 * [Rainmap Lite](https://github.com/cldrn/rainmap-lite) - Responsive web based interface that allows users to launch Nmap scans from their mobiles/tablets/web browsers!
 * [ShellComm](https://github.com/HacKanCuBa/shellcomm-php) - A simple tool to communicate with a remote shell easily 
 * [RFID Zapper](https://github.com/envido32/rfid-zapper) - Quemador de chips RFID, como el que se encuentra en llaves de puertas electronicas, tarjetas de transporte público, pasaportes, boletas de voto electrónico, etc, sin dejar marcas visibles.
+* [Burp-Scan-Them-All](https://github.com/niemand-sec/Burp-Scan-Them-All) -  Small Script for automatizing Burp headless with Carbonator and slack on your VPS and run scans automatically.
 
 ### Contribution
 Tus contribuciones son muy bien recibidas ♥♥♥ !!
